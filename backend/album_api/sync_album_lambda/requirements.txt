@@ -1,0 +1,3 @@
+requests
+requests_oauth2
+boto3

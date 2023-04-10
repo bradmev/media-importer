@@ -1,0 +1,4 @@
+redis
+requests
+axios
+requests_oauth2
